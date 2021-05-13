@@ -1,5 +1,5 @@
 # RO-GAN-using-Lightweight-GAN
-Lightweight GAN(FastGAN)を用いてラグナロクオンラインのキャラクター画像を生成するGANです。<br>
+Lightweight GAN<!--(FastGAN)-->を用いてラグナロクオンラインのキャラクター画像を生成するGANです。<br>
 学習済みモデルはONNX形式に変換して公開しています。<br><br>
 <img src="https://user-images.githubusercontent.com/37477845/118026295-9e2d3e00-b39b-11eb-830f-9bd82ad48369.gif" width="400px">
 
