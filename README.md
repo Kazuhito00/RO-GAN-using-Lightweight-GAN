@@ -12,20 +12,6 @@ Lightweight GAN<!--(FastGAN)-->を用いて[ラグナロクオンライン](http
 <details>
 <summary>生成例</summary>
 
-<img src="https://user-images.githubusercontent.com/37477845/118026328-a84f3c80-b39b-11eb-85f3-27d7bc0f1a71.jpg" width="200px">
-<img src="https://user-images.githubusercontent.com/37477845/118026331-a8e7d300-b39b-11eb-9e0c-25449bdde1a5.jpg" width="200px">
-<img src="https://user-images.githubusercontent.com/37477845/118026336-a9806980-b39b-11eb-8944-f54398f0ff15.jpg" width="200px">
-<img src="https://user-images.githubusercontent.com/37477845/118026338-a9806980-b39b-11eb-92f5-30c1cfa5e688.jpg" width="200px">
-<img src="https://user-images.githubusercontent.com/37477845/118026339-aa190000-b39b-11eb-8695-599816158f2b.jpg" width="200px">
-<img src="https://user-images.githubusercontent.com/37477845/118026342-aab19680-b39b-11eb-9994-3a694d3dc627.jpg" width="200px">
-<img src="https://user-images.githubusercontent.com/37477845/118026351-ab4a2d00-b39b-11eb-8ce6-dc05f0facfef.jpg" width="200px">
-<img src="https://user-images.githubusercontent.com/37477845/118026353-ab4a2d00-b39b-11eb-8fe8-6016dcca8d67.jpg" width="200px">
-<img src="https://user-images.githubusercontent.com/37477845/118026359-ac7b5a00-b39b-11eb-8a3c-76b105f0d9b0.jpg" width="200px">
-<img src="https://user-images.githubusercontent.com/37477845/118026360-ad13f080-b39b-11eb-9515-1450ec8f86bc.jpg" width="200px">
-<img src="https://user-images.githubusercontent.com/37477845/118026364-adac8700-b39b-11eb-818b-7c72a1444d0a.jpg" width="200px">
-<img src="https://user-images.githubusercontent.com/37477845/118026365-ae451d80-b39b-11eb-86d2-ddaabdbc8973.jpg" width="200px">
-<img src="https://user-images.githubusercontent.com/37477845/118026368-ae451d80-b39b-11eb-83e6-dcb4d4ec5ee9.jpg" width="200px">
-<img src="https://user-images.githubusercontent.com/37477845/118026371-aeddb400-b39b-11eb-82e6-ac7e68827188.jpg" width="200px">
 <img src="https://user-images.githubusercontent.com/37477845/118026372-aeddb400-b39b-11eb-8d81-7daac9d00a5e.jpg" width="200px">
 <img src="https://user-images.githubusercontent.com/37477845/118026373-af764a80-b39b-11eb-9a41-64bd7bbda26e.jpg" width="200px">
 <img src="https://user-images.githubusercontent.com/37477845/118026377-b00ee100-b39b-11eb-9c97-e1acc8c4e0fb.jpg" width="200px">
@@ -60,6 +46,20 @@ Lightweight GAN<!--(FastGAN)-->を用いて[ラグナロクオンライン](http
 <img src="https://user-images.githubusercontent.com/37477845/118027328-c23d4f00-b39c-11eb-80f6-6433c491cebe.jpg" width="200px">
 <img src="https://user-images.githubusercontent.com/37477845/118027336-c36e7c00-b39c-11eb-9c75-4d7f7c8a443c.jpg" width="200px">
 <img src="https://user-images.githubusercontent.com/37477845/118027338-c36e7c00-b39c-11eb-81eb-f077ffc75116.jpg" width="200px">
+<img src="https://user-images.githubusercontent.com/37477845/118026328-a84f3c80-b39b-11eb-85f3-27d7bc0f1a71.jpg" width="200px">
+<img src="https://user-images.githubusercontent.com/37477845/118026331-a8e7d300-b39b-11eb-9e0c-25449bdde1a5.jpg" width="200px">
+<img src="https://user-images.githubusercontent.com/37477845/118026336-a9806980-b39b-11eb-8944-f54398f0ff15.jpg" width="200px">
+<img src="https://user-images.githubusercontent.com/37477845/118026338-a9806980-b39b-11eb-92f5-30c1cfa5e688.jpg" width="200px">
+<img src="https://user-images.githubusercontent.com/37477845/118026339-aa190000-b39b-11eb-8695-599816158f2b.jpg" width="200px">
+<img src="https://user-images.githubusercontent.com/37477845/118026342-aab19680-b39b-11eb-9994-3a694d3dc627.jpg" width="200px">
+<img src="https://user-images.githubusercontent.com/37477845/118026351-ab4a2d00-b39b-11eb-8ce6-dc05f0facfef.jpg" width="200px">
+<img src="https://user-images.githubusercontent.com/37477845/118026353-ab4a2d00-b39b-11eb-8fe8-6016dcca8d67.jpg" width="200px">
+<img src="https://user-images.githubusercontent.com/37477845/118026359-ac7b5a00-b39b-11eb-8a3c-76b105f0d9b0.jpg" width="200px">
+<img src="https://user-images.githubusercontent.com/37477845/118026360-ad13f080-b39b-11eb-9515-1450ec8f86bc.jpg" width="200px">
+<img src="https://user-images.githubusercontent.com/37477845/118026364-adac8700-b39b-11eb-818b-7c72a1444d0a.jpg" width="200px">
+<img src="https://user-images.githubusercontent.com/37477845/118026365-ae451d80-b39b-11eb-86d2-ddaabdbc8973.jpg" width="200px">
+<img src="https://user-images.githubusercontent.com/37477845/118026368-ae451d80-b39b-11eb-83e6-dcb4d4ec5ee9.jpg" width="200px">
+<img src="https://user-images.githubusercontent.com/37477845/118026371-aeddb400-b39b-11eb-82e6-ac7e68827188.jpg" width="200px">
 
 </details>
 
