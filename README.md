@@ -81,4 +81,4 @@ Lightweight GAN<!--(FastGAN)-->を用いて[ラグナロクオンライン](http
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
 # License 
-mediapipe-python-sample is under [Apache-2.0 License](LICENSE).
+RO-GAN-using-Lightweight-GAN is under [GPL-3.0 License](LICENSE).
