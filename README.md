@@ -74,6 +74,9 @@ Lightweight GAN(FastGAN)を用いてラグナロクオンラインのキャラ�
 * 02_Convert2ONNX.ipynb
 * 03_Inference_ONNX.ipynb
 
+# Reference
+* [lucidrains/lightweight-gan](https://github.com/lucidrains/lightweight-gan)
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
